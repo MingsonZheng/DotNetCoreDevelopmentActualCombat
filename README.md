@@ -1,9 +1,9 @@
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
 - [第2课：内容综述](https://www.cnblogs.com/MingsonZheng/p/12310375.html)
-- [第3课：.NET Core的现状、未来以及环境搭建](https://www.cnblogs.com/MingsonZheng/p/12315440.html)--[StartupDemo](https://github.com/MingsonZheng/DotNetCoreDevelopmentActualCombat/tree/main/StartupDemo)
-- [第4课：Startup：掌握ASP.NET Core的启动过程](https://www.cnblogs.com/MingsonZheng/p/12319668.html)
-- [第5课：依赖注入：良好架构的起点](https://www.cnblogs.com/MingsonZheng/p/12324549.html)
+- [第3课：.NET Core的现状、未来以及环境搭建](https://www.cnblogs.com/MingsonZheng/p/12315440.html)
+- [第4课：Startup：掌握ASP.NET Core的启动过程](https://www.cnblogs.com/MingsonZheng/p/12319668.html)--[StartupDemo](https://github.com/MingsonZheng/DotNetCoreDevelopmentActualCombat/tree/main/StartupDemo)
+- [第5课：依赖注入：良好架构的起点](https://www.cnblogs.com/MingsonZheng/p/12324549.html)--[DependencyInjectionDemo](https://github.com/MingsonZheng/DotNetCoreDevelopmentActualCombat/tree/main/DependencyInjectionDemo)
 - [第6课：作用域与对象释放行为](https://www.cnblogs.com/MingsonZheng/p/12339892.html)
 - [第7课：用Autofac增强容器能力：引入面向切面编程（AOP）的能力](https://www.cnblogs.com/MingsonZheng/p/12348263.html)
 - [第8课：配置框架：让服务无缝适应各种环境](https://www.cnblogs.com/MingsonZheng/p/12359663.html)
